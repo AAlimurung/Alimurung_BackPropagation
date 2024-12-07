@@ -1,0 +1,10 @@
+D:\VSC\Alimurung_BPNN\BPNN\bin\Debug\BPNN.exe.config
+D:\VSC\Alimurung_BPNN\BPNN\bin\Debug\BPNN.exe
+D:\VSC\Alimurung_BPNN\BPNN\bin\Debug\BPNN.pdb
+D:\VSC\Alimurung_BPNN\BPNN\obj\Debug\BPNN.csproj.AssemblyReference.cache
+D:\VSC\Alimurung_BPNN\BPNN\obj\Debug\BPNN.Form1.resources
+D:\VSC\Alimurung_BPNN\BPNN\obj\Debug\BPNN.Properties.Resources.resources
+D:\VSC\Alimurung_BPNN\BPNN\obj\Debug\BPNN.csproj.GenerateResource.cache
+D:\VSC\Alimurung_BPNN\BPNN\obj\Debug\BPNN.csproj.CoreCompileInputs.cache
+D:\VSC\Alimurung_BPNN\BPNN\obj\Debug\BPNN.exe
+D:\VSC\Alimurung_BPNN\BPNN\obj\Debug\BPNN.pdb
